@@ -1,3 +1,5 @@
+import ConferenceWindow from "@/components/layout/conference-window";
+
 export default function Page() {
-  return <h1>Hello, Next.js!</h1>
+  return <ConferenceWindow></ConferenceWindow>
 }
